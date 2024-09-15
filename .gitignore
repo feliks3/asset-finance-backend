@@ -15,6 +15,7 @@ build/
 
 # Coverage reports
 coverage/
+data/
 
 # Temporary files
 *.tmp
